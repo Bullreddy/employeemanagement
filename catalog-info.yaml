@@ -4,6 +4,7 @@ metadata:
   name: employeemanagement
   annotations:
     github.com/project-slug: Bullreddy/employeemanagement
+    backstage.io/managed-by-location: url:http://github.com/backstage/backstage/blob/master/catalog-info.yaml
 spec:
   type: service
   lifecycle: unknown
